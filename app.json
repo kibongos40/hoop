@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a133e961-1d8f-482d-800b-dcb151b2bff5"
+      }
+    },
+    "owner": "kibongo"
   }
 }
